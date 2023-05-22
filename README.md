@@ -2,6 +2,6 @@
 
 ## How to use
 
-launch the the install script:
+Launch the the install script:
 
-sh install.sh
+    sh install.sh
