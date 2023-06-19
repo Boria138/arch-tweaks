@@ -13,3 +13,4 @@ fi
 
 cp -rf etc/* /etc/
 cp -rf usr/bin/* /usr/bin/
+systemctl enable kernel-tweaks.timer pci-latency.service optimize-interruptfreq.service
